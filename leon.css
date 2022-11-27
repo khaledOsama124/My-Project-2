@@ -18,6 +18,8 @@ body {
 .container {
     padding-right:15px;
     padding-right: 15px;
+    margin-right:auto;
+    margin-left:auto;
     width: 600px;
     margin: auto;
     background-color: #aaa;
