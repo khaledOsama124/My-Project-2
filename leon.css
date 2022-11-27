@@ -8,5 +8,8 @@
 
 body {
      font-family: "work sans",sans-serif;
+}
 
+.parent {
+    background-color: #eee;
 }
