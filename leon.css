@@ -26,14 +26,16 @@ body {
 
 @media  (min-width: 768px) {
     .container{
-        width:750;
+        width:750px;
     }
 
     
 }
 
 @media (min-width: 992px) {
-    
+    .container{
+        width:970;
+    }
 
 
     
