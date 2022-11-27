@@ -22,3 +22,9 @@ body {
     width: 600px;
     background-color: #aaa;
 }
+
+
+@media  (min-width: 768px) {
+    
+    
+}
