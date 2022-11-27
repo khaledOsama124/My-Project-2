@@ -12,11 +12,11 @@ body {
 
 .parent {
     background-color: #eee;
-    width: 600px;
-    margin: auto;
+    
 }
 
 .container {
-    width:600px;
-    margin:auto;
+    width: 600px;
+    margin: auto;
+    background-color: #aaa;
 }
