@@ -64,6 +64,8 @@ body {
 
 .header.links.icon {
     width:30px;
+    display:flex;
+
 }
 
 .header.links.icon span{
