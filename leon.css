@@ -100,11 +100,12 @@ body {
 }
 
 .header .links ul{
+    list-style:none;
 
 }
 
 .header .links ul::before {
-    
+
 }
 
 
