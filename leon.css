@@ -79,8 +79,9 @@ body {
 }
 
 
-.header.link.icon.first-child{
+.header.link.icon span:first-child{
     width:100%;
 }
 
+.header.links.icon.
 
