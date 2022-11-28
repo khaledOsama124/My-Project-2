@@ -79,11 +79,11 @@ body {
 }
 
 
-.header.link.icon span:first-child{
+.header .link .icon span:first-child{
     width:100%;
 }
 
-.header.links.icon.span:nth-child(2) {
+.header .links.icon span:nth-child(2) {
     width:60%;
     transition: 0.3s;
 }
