@@ -89,13 +89,13 @@ body {
     width:100%;
 }
 
-.header .links.icon span:nth-child(2) {
+.header .links .icon span:nth-child(2) {
     height:3px;
     width:60%;
     transition: 0.3s;
 }
-.header .links.icon span:last-child {
-    height:3px;
+.header .links .icon span:last-child {
+    height:3px; 
     width:100%;
 }
 
