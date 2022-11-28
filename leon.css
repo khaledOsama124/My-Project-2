@@ -131,7 +131,11 @@ body {
     transition:0.3s;
 }
 
-.header .links ul li:not(:last-child) {
+.header .links ul a:hover{
+    
+}
+
+.header .links ul li:not(:last-child) a {
     border-bottom: 1px solid #ddd;
 }
 
