@@ -123,6 +123,10 @@ body {
 
 }
 
+.header .links:hover ul{
+    
+}
+
 .header .links ul li a{
     display: block;
     padding:15px;
