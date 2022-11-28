@@ -125,6 +125,7 @@ body {
 
 .header .links ul li a{
     display: block;
+    padding:15px;
 }
 
 
