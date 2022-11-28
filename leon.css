@@ -85,7 +85,7 @@ body {
 
 
 .header .links .icon span:first-child {
-    height:3px
+    height:3px;
     width:100%;
 }
 
@@ -103,7 +103,7 @@ body {
     list-style:none;
     margin:0;
     padding:0;
-    background: color #6f6f6f;
+    background: color #f6f6f6;
     position:absolute;
     right:0;
     min-width:200px;
