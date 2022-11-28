@@ -113,7 +113,8 @@ body {
 
 .header .links ul::before {
     content: "";
-    
+    border-width:10px;
+
 
 }
 
