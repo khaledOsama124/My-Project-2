@@ -83,5 +83,7 @@ body {
     width:100%;
 }
 
-.header.links.icon.
+.header.links.icon.span:nth-child(2) {
+    
+}
 
