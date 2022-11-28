@@ -86,4 +86,7 @@ body {
 .header.links.icon.span:nth-child(2) {
     width:60%;
 }
+.header.links.icon span:last-child {
+    
+}
 
