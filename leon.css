@@ -112,6 +112,8 @@ body {
 }
 
 .header .links ul::before {
+    content: "";
+    
 
 }
 
