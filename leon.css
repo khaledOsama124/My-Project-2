@@ -84,7 +84,7 @@ body {
 }
 
 
-.header .link .icon span:first-child{
+.header .link .icon span:first-child {
 
     width:100%;
 }
@@ -93,7 +93,7 @@ body {
     width:60%;
     transition: 0.3s;
 }
-.header.links.icon span:last-child {
+.header .links.icon span:last-child {
     width:100%;
 }
 
