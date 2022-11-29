@@ -486,6 +486,9 @@ body {
     margin-left:10px;
     color:var(--main-color);
  }
+  @media (max-width:767) {
+    
+  }
 
 
 
