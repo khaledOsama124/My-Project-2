@@ -255,6 +255,7 @@ body {
 }
 .services .services-content .srv {
     display: flex;
+    margin-bottom:40px;
 
 }
 
