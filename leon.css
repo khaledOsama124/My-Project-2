@@ -376,7 +376,7 @@ body {
  .about .about-content .image {
     position:relative;
     width:250px;
-    height:375;
+    height:375px;
     
  }
 
@@ -393,11 +393,23 @@ body {
  }
 
  .about .about-content .image::after {
+    top:-40px;
     content:"";
     position:absolute;
     width:120px;
     height:300px;
-    border-left;
+    border-left:80px solid var(--main-color);
+    border-bottom:80px solid var(--main-color);
+    z-index :-1;
+    right: -150px;
+ }
+
+ @media (max-width:991px) {
+    
+ }
+
+ .about .about-content .image img {
+    max-width:100%;
  }
 
 
