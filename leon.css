@@ -360,7 +360,13 @@ body {
 
  .about {
     padding-top:var(--section-padding);
+    padding-bottom:calc(var(--section-padding)+60px);
 
+
+ }
+
+ .about .about-content{
+    
  }
 
 
