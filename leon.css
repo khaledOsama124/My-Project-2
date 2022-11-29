@@ -418,6 +418,10 @@ body {
     flex-basis:calc(100% + 500px);
  }
 
+ .about .about-content .text hr{
+    
+ }
+
  .about .about-content .text p:first-of-type {
     font-weight:bold;
     line-height:2;
