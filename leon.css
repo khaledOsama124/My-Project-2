@@ -145,7 +145,8 @@ body {
 }
 
 .landing {
-    background-image: url(../download.jpeg);
+    background-image: url(download.jpeg);
     background-size:cover;
+
 }
 
