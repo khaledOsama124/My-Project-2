@@ -113,6 +113,7 @@ body {
     min-width:200px;
     top:calc(100% + 15px);
     display: none;
+    z-index: 1;
 
 }
 
@@ -173,6 +174,8 @@ body {
 }
 
 .landing .intro-text p {
+    font-size: 19px;
+    line-height: 1.8;
 
 }
 
