@@ -298,7 +298,8 @@ body {
 .services .services-content .srv .image::before {
     content:"";
     background-color: var(--secondary-color);
-    width: 100px
+    width: 100px;
+    height:calc(100% + 100px);
 
 }
 
