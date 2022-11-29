@@ -165,6 +165,9 @@ body {
 }
 
 .landing .intro-text h1 {
+    margin: 0;
+    font-weight:50px;
+    color:var(--main-color);
 
 }
 
