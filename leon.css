@@ -503,7 +503,8 @@ body {
 
 .footer span {
     font-weight:bold;
-    
+    color:var(--main-color)
+
 }
 
 
