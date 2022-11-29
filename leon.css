@@ -267,6 +267,10 @@ body {
     
 }
 
+.services .services-content .srv i {
+    
+}
+
 .services .services-content .srv text {
     flex:1px;
 }
