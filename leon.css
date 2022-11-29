@@ -202,5 +202,5 @@ body {
 }
 
 .features .feat i {
-    
+    color: var(--main-color);
 }
