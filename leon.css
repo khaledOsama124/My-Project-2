@@ -483,7 +483,8 @@ body {
  }
 
  .contact .info .social i {
-    
+    margin-left:10px;
+    color:var(--main-color);
  }
 
 
