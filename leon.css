@@ -273,7 +273,7 @@ body {
     
 }
 
-.services .services-content .srv text {
+.services .services-content .srv .text {
     flex:1px;
 }
 
