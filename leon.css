@@ -475,7 +475,11 @@ body {
  }
 
  .contact .info .social {
-    
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size:25px 
+
  }
 
 
