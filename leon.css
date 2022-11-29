@@ -296,7 +296,9 @@ body {
 }
 
 .services .services-content .srv .image::before {
+    content:"";
     
+
 }
 
 
