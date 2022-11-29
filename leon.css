@@ -381,7 +381,15 @@ body {
  }
 
  .about .about-content .image::before {
-    
+    content:"";
+    position:absolute;
+    background-color:var(--secondary-color);
+    width:100px;
+    height:calc(100% + 80px);
+    top:-50px;
+    right:0;
+    z-index:-1;
+
  }
 
 
