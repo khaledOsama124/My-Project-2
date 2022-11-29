@@ -297,7 +297,7 @@ body {
 
 .services .services-content .srv .image::before {
     content:"";
-    
+    background-color: var(--secondary-color);
 
 }
 
