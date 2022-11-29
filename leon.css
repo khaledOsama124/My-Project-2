@@ -72,10 +72,6 @@ body {
     }
 }
 
-.services {
-    padding-top:60px;
-    padding-bottom:60px;
-}
 
 .header .container{
     display: flex;
@@ -245,4 +241,10 @@ body {
 
 
 }
+
+.services {
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
 
