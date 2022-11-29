@@ -191,5 +191,6 @@ body {
 
 .features .container{
     display:grid;
-    
+    grid-template-columns: repeat(300px,1fr);
+
 }
