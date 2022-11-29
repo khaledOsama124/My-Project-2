@@ -147,7 +147,7 @@ body {
 .landing {
     background-image: url(download.jpeg);
     background-size:cover;
-    height:calc(100hv - 64px);
+    height :calc(100hv - 64px);
 
 }
 
